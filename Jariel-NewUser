@@ -1,4 +1,7 @@
-Go to settings
-System > Users > Add user
-Type in the new user credentials
-And now you have a added account
+# How To Make a User Account: 
+
+1. Under the Ubuntu button which looks like a circle with three inner circles is a settings button
+2. After pressing the Settings button go through these choices in this same order: System > Users > Add user
+3. When you are under Add user it may prompt you to unlock in which you'll have to type in ur password
+4. After unlocking you then can create an account with choices like making it an adminstrator, and setting a password thats either custom by user or premade.
+5. And there you have it! You have figured out how to make a user account
