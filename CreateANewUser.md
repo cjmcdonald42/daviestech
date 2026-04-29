@@ -5,3 +5,5 @@
 3. When you are under Add user it may prompt you to unlock in which you'll have to type in ur password
 4. After unlocking you then can create an account with choices like making it an adminstrator, and setting a password thats either custom by user or premade.
 5. And there you have it! You have figured out how to make a user account
+
+_Written by Joshua Aracena on 29 Apr 2026

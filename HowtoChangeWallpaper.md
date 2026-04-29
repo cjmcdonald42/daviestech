@@ -6,3 +6,5 @@
 4. now on the right side scroll down to see the wallpapers they have
 5. now click any wallpaper that you like and you're finish
 6. excellent now you change your wallpaper
+
+ _Written by Joshua Aracena on 29 Apr 2026_
