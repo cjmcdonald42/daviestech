@@ -7,4 +7,4 @@
 5. now click any wallpaper that you like and you're finish
 6. excellent now you change your wallpaper
 
- _Written by Joshua Aracena on 29 Apr 2026_
+ _Written by Jariel Mendez on 29 Apr 2026_
