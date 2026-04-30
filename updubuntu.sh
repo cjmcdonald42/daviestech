@@ -1,9 +1,12 @@
 # Title
-Script for updating your computer
+Ubuntu Script
+
+# Background
+This is a step-by-step followthrough on how to create a ubuntu update script (ver. 26.04)
 
 ## Procedure
 
-1. Create a bash file using "nano myscript.sh"
+1. Create a bash file using "nano updubuntu.sh"
 2. Type in the following lines of code:
 
 ### bash
