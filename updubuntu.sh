@@ -7,10 +7,10 @@ This is a step-by-step followthrough on how to create a ubuntu update script (ve
 ## Procedure
 
 1. Create a bash file using "nano updubuntu.sh"
+
 2. Type in the following lines of code:
 
 ### bash
-#! /bin/bash
 # Update for Ubuntu 26.04
 echo "Starting Update..."
 echo apt upgrade
@@ -22,12 +22,9 @@ sudo apt autoclean
 echo "System fully updated!"
 
 3. Then save and exit (Ctrl+X -> enter with key)
-4. Make it executable: 
 
-### bash
-chmod +x update_ubuntu.sh
+4. Make it executable: 
+chmod +x updubuntu.sh
 
 5. Run the script
-
-### bash
-./update_ubuntu.sh
+./updubuntu.sh
