@@ -1,6 +1,10 @@
 # Write a script to update your computer
 
-'''
+## Abstract
+Here is a script to update the APT library of software on your linux computer.
+
+## Code
+```
 #!/bin/bash
 
 # Update the apt libraries
@@ -20,4 +24,7 @@ sudo apt autoremove -y
 
 echo
 echo "Update complete!"
-'''
+```
+
+## History
+_Page created by Chuck and Josh on 1 May 2026_
