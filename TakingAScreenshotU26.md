@@ -4,9 +4,9 @@
 A screenshot is when you take a picture of your own screen
 
 ## Procedure
-### Method 1
-1. you have an a button on your key board that says prt sc just click that and shift at the same time
-![Thingy Icon](/assets/image_of_thingy.png)
+### tutorial
+1. step 1 click the system menu [system menu]
+
 
 ## Links & References
 
