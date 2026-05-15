@@ -9,9 +9,8 @@
 ## Links & References
 
 ## History
-_Page created by name on day month year_
-_Page updated by name on day month year_
-
+_Page created by «name» on «day month year»_
+_Page updated by «name» on «day month year»_
 
 
 # Check this out
